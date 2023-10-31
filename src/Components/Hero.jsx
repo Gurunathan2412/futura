@@ -12,9 +12,11 @@ const Hero = () => {
         </div>
 
         <div>
-          <h1 className='absolute font-dmserif text-1xl font-semibold lg:text-[40px] absolute top-[350px] my-20 text-transparent bg-clip-text bg-gradient-to-r from-red-400 to-blue-400 z-10 capitalize bold '>
-            Ground to Unleash the beast in you
-          </h1>
+        <h1 class="relative text-2xl lg:text-4xl xl:text-5xl font-semibold text-center text-transparent bg-clip-text bg-gradient-to-r from-red-400 to-blue-400 capitalize py-4 lg:py-6 xl:py-8 leading-tight">
+    Ground to Unleash the Beast in You
+</h1>
+
+
         </div>
       
       </div>

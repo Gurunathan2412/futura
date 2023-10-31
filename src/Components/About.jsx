@@ -21,7 +21,7 @@ const About = () => {
       >
         The Department of Artificial Intelligence and Data Science at Sri Sairam Institute of Technology hosts the national techfest FUTURA<br/>A Festival filled with fascination and excitement comes to provide an oppurtunity to showcase your creative ideas and talents.<br/>Get ready to witness the most thrilling challenges.  </motion.p>
     
-    <ModelsCanvas2/>
+    {/* <ModelsCanvas2/> */}
     
     </>
   );
