@@ -18,7 +18,7 @@ const Feedback = () => {
         </h2>
         </div>
     </div>
-    <img src={"src/Assets/logo1.png"}/>
+    <img src={"src/assets/logo1.png"}/>
 </div>
 </>
   );

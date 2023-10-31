@@ -1,4 +1,4 @@
-import futura from "../Assets/futura_party2.png"
+import futura from "../assets/futura_party2.png"
 
 const Hero = () => {
   return (
