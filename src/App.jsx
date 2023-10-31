@@ -1,9 +1,9 @@
 import { BrowserRouter } from "react-router-dom";
 import { About,Contact, Hero, Navbar, Works} from "./Components";
 import FooterBottom from "./Components/footer/FooterBottom";
-import Feedbacks from "./Components/Feedbacks";
+// import Feedbacks from "./Components/Feedbacks";
 import Slider from "./Components/Slider";
-import Web3d from "./Components/web3d";
+// import Web3d from "./Components/web3d";
 
 
 const App = () => {
